@@ -33,6 +33,6 @@ An interactive dashboard tracking real-time orders, sales trends, product perfor
 - **Blink IT  Dataset** – cleaned and modeled for insights
 
 ##  Repository Structure
-- `HR Analytical Dashboard.pbix` → Power BI dashboard file  
-- `HR_Analytics.csv` → Dataset used for this project  
+- `Blink IT Dashboard.pbix` → Power BI dashboard file  
+- `Blink It Grocery.xlsx` → Dataset used for this project  
 - `README.md` → Documentation  
